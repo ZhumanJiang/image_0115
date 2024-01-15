@@ -1,0 +1,6 @@
+flask
+ugunicorn
+json
+time
+requests
+PIL
